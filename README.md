@@ -1,4 +1,4 @@
-- 👋 hi, i'm @anushaasharma
+- 👋 hi, i'm aanya
 - 🛰️ interested in astrophysics & programming
 - 🌱 currently learning python, swift, html and css
 - 📫 reach me at aanya4sha@gmail.com
